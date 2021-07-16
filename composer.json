@@ -1,6 +1,7 @@
 {
   "name": "blogui91/srpago-php",
   "description": "SrPago PHP Library",
+  "version": "1.0.0",
   "keywords": [
     "srpago",
     "card payment",
