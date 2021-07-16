@@ -4,58 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3ec02749a1105687b20310ea822793d0",
+    "content-hash": "0d0dbf21ded3d0e4655f6c0d88fd8a77",
     "packages": [
-        {
-            "name": "gabrielchavezme/srpago",
-            "version": "1.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/gabrielchavezme/srpago.git",
-                "reference": "3ef78eaf6fdedbcaf87b1961bd93a8a198915476"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/gabrielchavezme/srpago/zipball/3ef78eaf6fdedbcaf87b1961bd93a8a198915476",
-                "reference": "3ef78eaf6fdedbcaf87b1961bd93a8a198915476",
-                "shasum": ""
-            },
-            "require": {
-                "ext-curl": "*",
-                "ext-json": "*",
-                "ext-mbstring": "*",
-                "php": ">=5.3.3"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "SrPago\\": "lib/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "SrPago and contributors",
-                    "homepage": "https://github.com/srpago"
-                }
-            ],
-            "description": "SrPago Dev PHP Library",
-            "homepage": "https://srpago.com/",
-            "keywords": [
-                "api",
-                "card payment",
-                "payment processing",
-                "srpago"
-            ],
-            "support": {
-                "issues": "https://github.com/gabrielchavezme/srpago/issues",
-                "source": "https://github.com/gabrielchavezme/srpago/tree/master"
-            },
-            "time": "2020-07-25T23:25:23+00:00"
-        },
         {
             "name": "tcdent/php-restclient",
             "version": "0.1.7",
@@ -120,7 +70,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=7.1.1",
+        "php": ">=5.3.3",
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*"
